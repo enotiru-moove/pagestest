@@ -1,1 +1,3 @@
 remote_theme: chrisrhymes/bulma-clean-theme
+plugins:
+  - jekyll-sitemap
